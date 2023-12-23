@@ -6,3 +6,4 @@
 -Established Route Table for efficient traffic management.
 -Implemented Load Balancers for enhanced performance and reliability.
 -S3 bucket for seamless storage.
+
